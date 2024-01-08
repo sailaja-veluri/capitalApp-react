@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  height: 100vh;
+}
+.capital-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+.header {
+  font-size: 30px;
+  color: black;
+}
+.selectTag-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.select-card {
+  padding: 10px;
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+  border-color: #cbd2d9;
+}
+.para {
+  font-size: 20px;
+  color: #1e293b;
+  padding-top: 0px;
+  margin-top: 5px;
+}
